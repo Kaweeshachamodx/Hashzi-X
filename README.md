@@ -1,6 +1,6 @@
 <h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
 
-![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
+![logo](https://telegra.ph/file/cdae2d0df7dbfef8afbe2.jpg)
 
 
 
