@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ (PINKY-BOT) </b></h1>
 
 ![logo](https://telegra.ph/file/cdae2d0df7dbfef8afbe2.jpg)
 
